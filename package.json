@@ -1,6 +1,6 @@
 {
   "name": "framework7-vue-browserify-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Framework7 + Vue + Browserify starter app template with hot-reload & css extraction",
   "repository": {
     "type": "git",
