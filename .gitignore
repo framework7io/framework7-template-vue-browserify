@@ -1,4 +1,8 @@
 .DS_Store
 node_modules
-dist/build.js
-dist/build.css
+www/js/build.js
+www/fonts
+www/css/build.css
+www/css/framework7.css
+www/css/framework7.min.css
+
